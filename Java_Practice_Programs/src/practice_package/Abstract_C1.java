@@ -7,6 +7,6 @@ public abstract class Abstract_C1 {
 	abstract void joint();
 	public void branchDetails()        //non-abstract method
 	{
-	System.out.println("chennai");
+	System.out.println("chennai Express");
 	}
 }
